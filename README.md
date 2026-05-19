@@ -10,14 +10,21 @@ or more `Artist/Album/song` folders into the modal, optionally pick a cover
 image per album, and the plugin writes the files into your music library
 folder and triggers a library scan.
 
+**Finally you can now add music to your music library from anywhere, without having to go through Jellyfin's back end!** 
+
 Built for admin convenience on a home server — no SSH, no scp, no manual
-import dance. Just drag a folder into the browser.
+import dance. 
+Just drag a folder containing into the browser.
+Remember the upload format : Artist folder > Album name > Song tracks
+You get to pick the thumbnail for the albums in the process as well, this way you get a clean metadata experience!
+
+
 
 
 ##
 <div align="center">
   
-  <b>This took some time for testing and debugging, but we made it! if you enjoyed the project, please feel free to buy me a coffee! </b>
+  <b>This took me some time for testing and debugging and ironing the quirks, but we made it! if you enjoyed the project, please feel free to buy me a coffee! </b>
   
   </div>
 
@@ -32,6 +39,7 @@ import dance. Just drag a folder into the browser.
 
 ## Features
 
+- Works with **Jellyfin Media Player** and **Jellyfin Web UI**
 - Drag-and-drop folder upload from the Jellyfin web UI
 - Multiple Artist folders in one drop
 - Folder structure validated and previewed before any upload (artist /
@@ -64,6 +72,8 @@ import dance. Just drag a folder into the browser.
 - For building from source: **.NET 9 SDK**
 
 ## Installation
+
+### The installations can often not go as smoothly as planned, if you want a fail-proof way of installing it, just point Claude-Code or Codex to this page and ask it to install the plugin in your Jellyfin instance (letting them know where this is, if this is in a rapsberry pi, or locally etc, and granting them access to the location (for instance with a raspberry pi you can provide it with the ssh credentials if needed for installation and it will install the plugin there) -- i have found my experience to be much smoother this way, but to each their own! You can also follow the manual steps below. Cheers!
 
 ### 1. Get the plugin DLL
 
