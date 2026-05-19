@@ -16,7 +16,7 @@ Built for admin convenience on a home server — no SSH, no scp, no manual
 import dance. 
 Just drag a folder containing into the browser.
 Remember the upload format : Artist folder > Album name > Song tracks
-You get to pick the thumbnail for the albums in the process as well, this way you get a clean metadata experience!
+You get to pick the thumbnail for the albums in the process as well (optional), this way you get a clean metadata experience!
 
 
 
