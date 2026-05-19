@@ -3,7 +3,7 @@
   <img src="logo-circle.png" alt="JellyMusicUploader" width="160" height="160">
 </p>
 
-<h1 align="center">Jellyfin Music Uploader</h1>
+<h1 align="center">JellyMusicUploader</h1>
 
 A Jellyfin plugin that adds an **Add Music** button to the web UI. Drag one
 or more `Artist/Album/song` folders into the modal, optionally pick a cover
