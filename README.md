@@ -16,7 +16,7 @@ import dance. Just drag a folder into the browser.
 ##
 <div align="center">
   
-  <b>This took a whole lot of testing and debugging, but we made it! if you enjoyed the project, please feel free to buy me a coffee! </b>
+  <b>This took some time for testing and debugging, but we made it! if you enjoyed the project, please feel free to buy me a coffee! </b>
   
   </div>
 
