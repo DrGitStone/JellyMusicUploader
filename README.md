@@ -69,7 +69,7 @@ You get to pick the thumbnail for the albums in the process as well (optional), 
 - **Jellyfin 10.11.x** (built and tested against 10.11.2)
 - A music library configured in Jellyfin pointing at a directory that
   is writable by the Jellyfin process
-- For building from source: **.NET 9 SDK**
+- If building from source: **.NET 9 SDK**
 
 ## Installation
 
