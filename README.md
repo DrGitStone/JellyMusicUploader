@@ -23,7 +23,7 @@ import dance. Just drag a folder into the browser.
   
  <div align="center">
   <a href="https://buymeacoffee.com/drgit_stone" target="_blank">
-    <img src=".github/BuyMeACoffee.png" alt="JellyMusicDiscovery" width="180"/>
+    <img src=".github/BuyMeACoffee.png" alt="jellyfin-music-uploader" width="180"/>
   </a>
 </div>
 
