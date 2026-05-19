@@ -73,7 +73,7 @@ You get to pick the thumbnail for the albums in the process as well (optional), 
 
 ## Installation
 
-### The installations can often not go as smoothly as planned, if you want a fail-proof way of installing it, just point Claude-Code or Codex to this page and ask it to install the plugin in your Jellyfin instance (letting them know where this is, if this is in a rapsberry pi, or locally etc, and granting them access to the location (for instance with a raspberry pi you can provide it with the ssh credentials if needed for installation and it will install the plugin there) -- i have found my experience to be much smoother this way, but to each their own! You can also follow the manual steps below. Cheers!
+### The installations can often not go as smoothly as planned, if you want a fail-proof way of installing it, just point Claude-Code or Codex to this page and ask it to install the plugin in your Jellyfin instance (letting them know where this is, if this is in a rapsberry pi, or locally etc, and granting them access to the location and specifics (for instance with a raspberry pi you can provide it with the ssh credentials if needed for installation and as an example let it know that it is installed within Docker or within Portainer and it will install the plugin successfully) -- i have found my experience to be much smoother this way, but to each their own! You can also follow the manual steps below. Cheers!
 
 ### 1. Get the plugin DLL
 
