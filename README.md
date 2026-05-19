@@ -12,6 +12,23 @@ folder and triggers a library scan.
 Built for admin convenience on a home server — no SSH, no scp, no manual
 import dance. Just drag a folder into the browser.
 
+
+##
+<div align="center">
+  
+  <b>This took a whole lot of testing and debugging, but we made it! if you enjoyed the project, please feel free to buy me a coffee! </b>
+  
+  </div>
+
+  
+ <div align="center">
+  <a href="https://buymeacoffee.com/drgit_stone" target="_blank">
+    <img src=".github/BuyMeACoffee.png" alt="JellyMusicDiscovery" width="180"/>
+  </a>
+</div>
+
+---
+
 ## Features
 
 - Drag-and-drop folder upload from the Jellyfin web UI
